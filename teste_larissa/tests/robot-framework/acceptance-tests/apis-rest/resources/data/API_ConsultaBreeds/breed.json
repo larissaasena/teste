@@ -1,0 +1,7 @@
+{{ 
+    "breed": {breed},
+    "country": {country},
+    "origin": {origin},
+    "coat": {coat},
+    "pattern": {pattern}
+}}
